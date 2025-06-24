@@ -1,0 +1,262 @@
+{
+  "trending": [
+    {
+      "id": 1,
+      "title": "Stranger Things",
+      "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+      "image": "/images/stranger-things.jpg",
+      "genre": "Sci-Fi Horror",
+      "rating": "TV-14",
+      "year": 2016,
+      "duration": "3 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "type": "series"
+    },
+    {
+      "id": 2,
+      "title": "Squid Game",
+      "description": "A Korean drama about people in financial distress who risk their lives by playing childhood games to win a massive cash prize.",
+      "image": "/images/squid-game.jpg",
+      "genre": "Thriller Drama",
+      "rating": "TV-MA",
+      "year": 2021,
+      "duration": "1 season",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "type": "series"
+    },
+    {
+      "id": 3,
+      "title": "Wednesday",
+      "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends at Nevermore Academy.",
+      "image": "/images/wednesday.jpg",
+      "genre": "Comedy Horror",
+      "rating": "TV-14",
+      "year": 2022,
+      "duration": "1 season",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "type": "series"
+    },
+    {
+      "id": 4,
+      "title": "The Witcher",
+      "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+      "image": "/images/the-witcher.jpg",
+      "genre": "Fantasy Action",
+      "rating": "TV-MA",
+      "year": 2019,
+      "duration": "3 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "type": "series"
+    },
+    {
+      "id": 5,
+      "title": "Ozark",
+      "description": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+      "image": "/images/ozark.jpg",
+      "genre": "Crime Drama",
+      "rating": "TV-MA",
+      "year": 2017,
+      "duration": "4 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "type": "series"
+    }
+  ],
+  "popular": [
+    {
+      "id": 6,
+      "title": "Breaking Bad",
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine to secure his family's future.",
+      "image": "/images/breaking-bad.jpg",
+      "genre": "Crime Drama",
+      "rating": "TV-MA",
+      "year": 2008,
+      "duration": "5 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "type": "series"
+    },
+    {
+      "id": 7,
+      "title": "Money Heist",
+      "description": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "image": "/images/money-heist.cHJkLWVtcy1hc3NldHMvdHZzZWFzb24vUlRUVjEwMTMyOTMud2VicA==",
+      "genre": "Crime Thriller",
+      "rating": "TV-MA",
+      "year": 2017,
+      "duration": "5 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "type": "series"
+    },
+    {
+      "id": 8,
+      "title": "Dark",
+      "description": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families.",
+      "image": "/images/dark.jpg",
+      "genre": "Sci-Fi Mystery",
+      "rating": "TV-MA",
+      "year": 2017,
+      "duration": "3 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "type": "series"
+    },
+    {
+      "id": 9,
+      "title": "Narcos",
+      "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country.",
+      "image": "/images/narcos.jpg",
+      "genre": "Crime Biography",
+      "rating": "TV-MA",
+      "year": 2015,
+      "duration": "3 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "type": "series"
+    },
+    {
+      "id": 10,
+      "title": "House of Cards",
+      "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+      "image": "/images/house-of-cards.jpg",
+      "genre": "Political Drama",
+      "rating": "TV-MA",
+      "year": 2013,
+      "duration": "6 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "type": "series"
+    }
+  ],
+  "newReleases": [
+    {
+      "id": 11,
+      "title": "Black Mirror",
+      "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+      "image": "/images/black-mirror.jpg",
+      "genre": "Sci-Fi Thriller",
+      "rating": "TV-MA",
+      "year": 2011,
+      "duration": "6 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+      "type": "series"
+    },
+    {
+      "id": 12,
+      "title": "The Crown",
+      "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+      "image": "/images/the-crown.jpg",
+      "genre": "Historical Drama",
+      "rating": "TV-MA",
+      "year": 2016,
+      "duration": "6 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "type": "series"
+    },
+    {
+      "id": 13,
+      "title": "Bridgerton",
+      "description": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+      "image": "/images/bridgerton.jpg",
+      "genre": "Period Romance",
+      "rating": "TV-MA",
+      "year": 2020,
+      "duration": "3 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "type": "series"
+    },
+    {
+      "id": 14,
+      "title": "Orange Is the New Black",
+      "description": "A privileged New Yorker ends up in a women's prison when a past crime catches up with her in this Emmy-winning series.",
+      "image": "/images/orange-is-the-new-black.jpg",
+      "genre": "Comedy Drama",
+      "rating": "TV-MA",
+      "year": 2013,
+      "duration": "7 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "type": "series"
+    }
+  ],
+  "actionMovies": [
+    {
+      "id": 15,
+      "title": "Avengers: Endgame",
+      "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos.",
+      "image": "/images/avengers-endgame.jpg",
+      "genre": "Action Sci-Fi",
+      "rating": "PG-13",
+      "year": 2019,
+      "duration": "181 min",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "type": "movie"
+    },
+    {
+      "id": 16,
+      "title": "The Dark Knight",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests.",
+      "image": "/images/dark-knight.jpg",
+      "genre": "Action Crime",
+      "rating": "PG-13",
+      "year": 2008,
+      "duration": "152 min",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "type": "movie"
+    },
+    {
+      "id": 17,
+      "title": "Inception",
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+      "image": "/images/inception.jpg",
+      "genre": "Action Sci-Fi",
+      "rating": "PG-13",
+      "year": 2010,
+      "duration": "148 min",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "type": "movie"
+    },
+    {
+      "id": 18,
+      "title": "Interstellar",
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "image": "/images/interstellar.jpg",
+      "genre": "Adventure Drama",
+      "rating": "PG-13",
+      "year": 2014,
+      "duration": "169 min",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "type": "movie"
+    }
+  ],
+  "comedyShows": [
+    {
+      "id": 19,
+      "title": "Euphoria",
+      "description": "A look at life for a group of high school students as they grapple with issues of drugs, sex, and violence.",
+      "image": "/images/euphoria.jpg",
+      "genre": "Drama",
+      "rating": "TV-MA",
+      "year": 2019,
+      "duration": "2 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "type": "series"
+    },
+    {
+      "id": 20,
+      "title": "Game of Thrones",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "image": "/images/game-of-thrones.jpg",
+      "genre": "Action Drama",
+      "rating": "TV-MA",
+      "year": 2011,
+      "duration": "8 seasons",
+      "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "type": "series"
+    }
+  ],
+  "hero": {
+    "id": 1,
+    "title": "Stranger Things",
+    "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl.",
+    "backgroundImage": "/images/hero-bg.jpg",
+    "trailerUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "genre": "Sci-Fi Horror",
+    "rating": "TV-14",
+    "year": 2016
+  }
+}

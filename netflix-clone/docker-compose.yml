@@ -1,0 +1,49 @@
+version: '3.8'
+
+services:
+  netflix-clone:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: netflix-clone-app
+    ports:
+      - "80:80"
+      - "443:443"  # For HTTPS if you add SSL
+    restart: unless-stopped
+    environment:
+      - NODE_ENV=production
+    volumes:
+      # Optional: Mount custom nginx config
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      # Optional: Mount SSL certificates
+      # - ./ssl:/etc/nginx/ssl:ro
+    networks:
+      - netflix-network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: Add a reverse proxy for multiple services
+  # nginx-proxy:
+  #   image: nginx:alpine
+  #   container_name: reverse-proxy
+  #   ports:
+  #     - "80:80"
+  #     - "443:443"
+  #   volumes:
+  #     - ./proxy.conf:/etc/nginx/nginx.conf:ro
+  #   depends_on:
+  #     - netflix-clone
+  #   networks:
+  #     - netflix-network
+
+networks:
+  netflix-network:
+    driver: bridge
+
+# Optional: Add volumes for persistent data
+# volumes:
+#   netflix_data:
